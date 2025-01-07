@@ -6,7 +6,7 @@ Responsive Blog preview card designed using semantic markup with CSS.
 
 ![Preview image of Blog preview card](./preview.jpg)
 
-Check out this component live by follow the link below:
+Check out this card live by follow the link below:
 
 - [Live Site](https://bauerceptor.github.io/fmentor-02-blog-preview-card/)
 
